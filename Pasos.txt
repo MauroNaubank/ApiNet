@@ -1,0 +1,5 @@
+1. Crear una api web 
+2. Instalar dependencia nuget de mysqldata y dapper (dapper es mas rapida que entity framework)
+3. Crear un controlador
+4. Se crea las cadenas de coneccion a la base de datos
+5. using se utiliza para cerrar la cadena apenas se utilice
